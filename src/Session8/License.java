@@ -1,3 +1,5 @@
+package Session8;
+
 import java.util.Scanner;
 
 public class License {
@@ -9,7 +11,7 @@ public class License {
         int license = user.nextInt();
         if (license>=18)
         {
-           System.out.println("Eligible for License");
+           System.out.println("Eligible for Session8.License");
         }
         else
         {
